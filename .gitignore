@@ -1,0 +1,10 @@
+.idea/
+/.settings/
+/target/
+/project/project/
+/project/target/
+/project/build.properties
+
+*.class
+.classpath
+.project
